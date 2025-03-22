@@ -5,7 +5,6 @@ public class HelloWorld {
         System.out.println("Welcome to the DevOps learning!");
 	System.out.println("thanks to Vikas Ratnawat Sir!");
 	System.out.println("Welcome to Self Lernings!");
-        System.out.println("Let's explore automation and CI/CD pipelines.");
     }
 }
 
